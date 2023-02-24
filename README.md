@@ -6,11 +6,17 @@ Foi feito em apenas um projeto (monolito) sem separar em camadas pela pouca comp
 
 1. Faça o clone desse repositório
 2. Navegue até a pasta do projeto DesafioDev.Web
-3. Inicie a pasta pelo prompt de comando
-4. Execute o comando docker-compose up
-5. Acesse a página entrando em http://localhost:5196/
-6. Para fazer o upload do CNAB.txt acesse http://localhost:5196/Upload
-7. Tem o swagger implementado na API que segue na url http://localhost:5196/swagger/index.html
+3. Inicie a pasta pelo prompt de comando <br />
+![image](https://user-images.githubusercontent.com/46653696/221074207-016b5384-f5d0-466c-8658-c7b44631ff29.png)<br />
+4. Execute o comando docker-compose up<br />
+![image](https://user-images.githubusercontent.com/46653696/221074418-76034493-7eee-46e8-94dc-ab55c9625047.png)<br />
+5. Acesse a página entrando em http://localhost:5196/<br />
+![image](https://user-images.githubusercontent.com/46653696/221075278-c2dafa37-c602-406c-8501-f321b1dc8e01.png)<br />
+6. Para fazer o upload do CNAB.txt acesse http://localhost:5196/Upload<br />
+![image](https://user-images.githubusercontent.com/46653696/221074686-669d8b49-c370-464f-8f32-e73104998e0a.png)<br />
+7. Tem o swagger implementado na API que segue na url http://localhost:5196/swagger/index.html<br />
+![image](https://user-images.githubusercontent.com/46653696/221074586-398c221e-5cc5-4a91-9944-3549d3b2fcb7.png)<br />
+
 
 # Problemas e confusões durante o desafio
 
