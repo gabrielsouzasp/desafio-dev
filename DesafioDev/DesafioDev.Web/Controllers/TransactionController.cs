@@ -23,7 +23,7 @@ namespace DesafioDev.Web.Controllers
         {
             var result = await _transactionService.GetTransactionsAsync();
 
-            if (result != null && result.Transactions.Any() && result.TotalAmount > 0)
+            if (result != null && result.Transactions.Any())
                 return Ok(result);
 
             return NoContent();
