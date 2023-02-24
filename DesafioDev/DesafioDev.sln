@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioDev.Web", "DesafioDev.Web\DesafioDev.Web.csproj", "{C1C96B93-3547-4E93-821C-4FE59F2B404E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioDev.UnitTest", "DesafioDev.UnitTest\DesafioDev.UnitTest.csproj", "{D0AA82B9-3CC7-43EC-9D60-81B350B78EE9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{63B07042-1777-4BBA-922A-F11A98AACFD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1C96B93-3547-4E93-821C-4FE59F2B404E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C96B93-3547-4E93-821C-4FE59F2B404E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1C96B93-3547-4E93-821C-4FE59F2B404E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1C96B93-3547-4E93-821C-4FE59F2B404E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0AA82B9-3CC7-43EC-9D60-81B350B78EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0AA82B9-3CC7-43EC-9D60-81B350B78EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0AA82B9-3CC7-43EC-9D60-81B350B78EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0AA82B9-3CC7-43EC-9D60-81B350B78EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D0AA82B9-3CC7-43EC-9D60-81B350B78EE9} = {63B07042-1777-4BBA-922A-F11A98AACFD5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4144A4D5-90E3-4BCC-B160-C2825B7E4E94}
+	EndGlobalSection
+EndGlobal

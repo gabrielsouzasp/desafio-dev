@@ -1,0 +1,18 @@
+﻿@page
+@{
+    ViewData["Title"] = "Upload de arquivo";
+}
+<h3>Upload do arquivo CNAB</h3>
+
+
+<div class="col-6" ng-controller="uploadController">
+    <form enctype="multipart/form-data">
+        <input class="form-control" type="file" file-model="myFile"/>
+        <button class="btn btn-primary" ng-click="uploadFile()">Upload</button>
+    </form>
+</div>
+
+
+@section Scripts {
+    <script src="~/js/uploadController.js"></script>
+}
