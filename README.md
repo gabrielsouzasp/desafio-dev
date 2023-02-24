@@ -1,6 +1,6 @@
 # Sobre o projeto e como executar
 
-O projeto foi feito usando C# como linguagem, .NET 6 como framework, Mysql como banco de dados relacional e o framework AngularJS como front-end.
+O projeto foi feito usando C# como linguagem, .NET 6 como framework, Mysql como banco de dados relacional, Bootstrap para o CSS e o framework AngularJS como front-end.
 Foi feito em apenas um projeto (monolito) sem separar em camadas pela pouca complexidade necessária para funcionamento
 
 
