@@ -17,7 +17,7 @@ Foi feito em apenas um projeto (monolito) sem separar em camadas pela pouca comp
 1. Na documentação do CNAB diz que temos o total de 81 caracteres na string mas temos apenas o total de 80 <br />
   1.1 Soma (1 + 8 + 10 +11 + 12 + 6 + 14 + 19) Totaliza 81 mas no exemplo do CNAB temos apenas 80
 2. Na documentação do CNAB ele começa o indice para tratamento a partir do 1 e na computação começamos a partir do 0 o que ocasionou uma confusão na hora de recuperar os dados
-3. Na documentação sobre os tipos das transações ficou uma confusão no "Débito" pois acho que deveria ser "-" ao invés de "+' em uma transação de débito
+3. Na documentação sobre os tipos das transações ficou uma confusão no "Débito" pois acho que deveria ser "-" ao invés de "+" em uma transação de débito mas mantive de acordo com a documentação dizia "+"
 
 # Testes unitários
 
